@@ -17,19 +17,19 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- Blacklist preferences -->
-  <string name="blacklist_title">Blocked caller list</string>
-  <string name="blacklist_summary_disabled">Disabled</string>
-  <string name="blacklist_summary">You will not receive incoming calls or messages from phone numbers on the blocked caller list</string>
+  <string name="blacklist_title">Список заблокованих</string>
+  <string name="blacklist_summary_disabled">Вимкнено</string>
+  <string name="blacklist_summary">Ви не будете отримувати вхідні дзвінки та повідомлення від телефонних номерів з чорного списку</string>
   <!-- Blacklist notifications -->
-  <string name="blacklist_call_notification">Blocked a call from %s</string>
-  <string name="blacklist_call_notification_private_number">Blocked a call from a private number</string>
-  <string name="blacklist_call_notification_unknown_number">Blocked a call from unknown number %s</string>
-  <string name="blacklist_call_notification_multiple"><xliff:g id="count">%d</xliff:g> calls were blocked</string>
-  <string name="blacklist_message_notification">Blocked a message from %s</string>
-  <string name="blacklist_message_notification_private_number">Blocked a message from a private number</string>
-  <string name="blacklist_message_notification_unknown_number">Blocked a message from unknown number %s</string>
-  <string name="blacklist_message_notification_multiple"><xliff:g id="count">%d</xliff:g> messages were blocked</string>
-  <string name="blacklist_notification_list_private">Private</string>
-  <string name="unblock_number">Unblock</string>
-  <string name="unblock_contact">Unblock contact</string>
+  <string name="blacklist_call_notification">Заблоковано виклик від %s</string>
+  <string name="blacklist_call_notification_private_number">Заблоковано виклик з прихованого номера</string>
+  <string name="blacklist_call_notification_unknown_number">Заблоковано виклик з невідомого номера %s</string>
+  <string name="blacklist_call_notification_multiple">Заблокованих викликів: <xliff:g id="count">%d</xliff:g></string>
+  <string name="blacklist_message_notification">Повідомлення від %s заблоковано</string>
+  <string name="blacklist_message_notification_private_number">Заблоковано повідомлення від прихованого номера</string>
+  <string name="blacklist_message_notification_unknown_number">Заблоковано повідомлення від невідомого номера %s</string>
+  <string name="blacklist_message_notification_multiple">Заблоковано повідомлень: <xliff:g id="count">%d</xliff:g></string>
+  <string name="blacklist_notification_list_private">Особистий</string>
+  <string name="unblock_number">Розблокувати</string>
+  <string name="unblock_contact">Розблокувати контакт</string>
 </resources>

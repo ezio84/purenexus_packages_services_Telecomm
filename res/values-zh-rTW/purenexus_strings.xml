@@ -19,12 +19,12 @@
   <!-- Blacklist preferences -->
   <string name="blacklist_title">黑名單</string>
   <string name="blacklist_summary_disabled">已停用</string>
-  <string name="blacklist_summary">您將不會收到在黑名單內電話號碼所撥打的電話或發出的簡訊</string>
+  <string name="blacklist_summary">您將不會收到來自黑名單內電話號碼的電話或訊息</string>
   <!-- Blacklist notifications -->
-  <string name="blacklist_call_notification">已封鎖來自 %s 的一通電話</string>
+  <string name="blacklist_call_notification">已封鎖來自 %s 的一通來電</string>
   <string name="blacklist_call_notification_private_number">已封鎖來自私人號碼的一通電話</string>
   <string name="blacklist_call_notification_unknown_number">已封鎖來自未知號碼 %s 的一通來電</string>
-  <string name="blacklist_call_notification_multiple">已封鎖 <xliff:g id="count">%d</xliff:g> 通電話</string>
+  <string name="blacklist_call_notification_multiple">已封鎖 <xliff:g id="count">%d</xliff:g> 通來電</string>
   <string name="blacklist_message_notification">已封鎖來自 %s 的一則訊息</string>
   <string name="blacklist_message_notification_private_number">已封鎖來自私人號碼的一則訊息</string>
   <string name="blacklist_message_notification_unknown_number">已封鎖來自未知號碼 %s 的一訊息</string>
